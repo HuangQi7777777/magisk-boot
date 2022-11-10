@@ -6,7 +6,7 @@ on:
       romUrl:
         description: 'Android ROM Url'
         required: true
-        default: "https://dl.google.com/dl/android/aosp/oriole-ota-tp1a.221005.002-5e69c530.zip"
+        default: "https://i21.lanzoug.com:446/1110100088416572bb/2022/11/10/103c386b949ec09b635390e39e20342b.zip?st=Dm1C7frBgOCUaqfYV5ugYQ&e=1668049861&b=CCgIZ1M_bACsHKFZpUHA_c&fi=88416572&pid=120-236-67-151&up=2&mp=1&co=1"
         type: string
       cpuAbi:
         description: "CPU ABI"
